@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -7,7 +8,7 @@
   <title>Encurtadores de URL - Simplifique e Gerencie Seus Links</title>
   <meta name="description" content="Descubra os melhores encurtadores de URL para transformar links longos em URLs curtas, fáceis de compartilhar e gerenciar." />
   <meta name="keywords" content="encurtadores de URL, encurtar link, URL curta, gerenciamento de links, links curtos" />
-  <link rel="canonical" href="https://seusite.com/promocao-encurtadores" />
+
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
@@ -62,7 +63,7 @@
 <body>
   <main>
     <h1>Conheça Encurtadores de URL!</h1>
-    <img src="https://blog.encurta.net/wp-content/uploads/2017/07/160x600.png" alt="Banner promocional de encurtadores de URL" />
+    <a href="https://encurta.net/ref/113084217886494396012" target="_blank" ><img src="https://blog.encurta.net/wp-content/uploads/2017/07/336x280.png" alt="EncurtaNET" /></a> 
     <p>Transforme seus links longos em URLs curtas, fáceis de compartilhar e gerencie seus acessos com facilidade.</p>
   </main>
 </body>
